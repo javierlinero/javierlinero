@@ -1,6 +1,6 @@
-### Hey , Im Javi! 👋
+### Hey, Im Javi! 👋
 
-### I'm a Software Engineer Intern at[General Motors 🚗](https://www.gm.com/).
+### I'm a Software Engineer Intern at [General Motors 🚗](https://www.gm.com/).
 
 Recently, I've been working on:
 * SolScript.AI, a fine-tuned LLM on [etherscan](https://etherscan.io/) contracts 🦄 to generate smart contracts. Our model uses Chain of Thought and a critiquing LLM as an RL agent to minimize vulnerabilities.
