@@ -4,8 +4,8 @@
 
 Recently, I've been working on:
 * SolScript.AI, a fine-tuned LLM on [etherscan](https://etherscan.io/) contracts 🦄, to generate smart contracts using Chain of Thought and a critiquing LLM as an RL agent to minimize vulnerabilities.
-* Gradient-Based Stiffness Optimization, using a finite element analysis with FEniCS to conduct an empirical evaluation across various interlocking.
+* Gradient-Based Stiffness Optimization, using a finite element analysis with [FEniCS](https://fenicsproject.org/) to conduct an empirical evaluation across various interlocking joints 🏭.
 * PUAM, a mobile app for Princeton's art museum built in Flutter with a Flask & SQL backend hosted on AWS 📱.
-* CipherP2P, an innovative chrome extension that enables efficient p2p file sharing using a webRTC network hosted on Heroku, with a simplistic UI yet extensive file protocol.
+* CipherP2P, an innovative chrome extension that enables efficient p2p file sharing 📁 using a designed webRTC network built on Go and hosted on Heroku, with a simplistic UI yet extensive file protocol.
 
 Find me on <a href="https://www.linkedin.com/in/javierlinero/)">linked in</a>.
