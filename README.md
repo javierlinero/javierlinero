@@ -1,6 +1,6 @@
 ### Hey, Im Javi! 👋
 
-### I'm a Software Engineer and a senior CS undergraduate at [Princeton 🐯](https://www.princeton.edu/). 
+### I'm a Junior Solutions Architect focused on scaling systems. 
 
 I'm passionate about building scalable solutions focusing on backend applications, and have recently been involved in:
 * **[Cardmania.org](https://cardmania.org)**: A dynamic palace card game platform boasting a Svelete + DaisyUI (TailwindCSS) frontend and a Flask + SocketIO backend, currently serving over 800 players and deployed on AWS with cloudflared tunneling.
